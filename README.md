@@ -2,8 +2,8 @@
 
 ### Autorzy:
 
-Igor Zakrocki
-Daniel Mikołajczyk
+* Igor Zakrocki
+* Daniel Mikołajczyk
 
 ### Projekt w skrócie:
 
